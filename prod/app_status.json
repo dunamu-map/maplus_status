@@ -1,5 +1,5 @@
 {
-	"maintenance": true,
+	"maintenance": false,
 	"maintenance_url": "https://pages.maplus.com/prod/assets/service_check_maplus.html",
 	"appiron_maintenance": false
 }
